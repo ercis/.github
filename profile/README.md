@@ -6,3 +6,6 @@ We would like to encourage you to have a look at our website to find out more ab
 
 "After all, relationships are all that really matter in life."
 (Wilhelm von Humboldt, German philosopher and diplomat)
+
+General contact: info@ercis.org
+GitHub contact: max.luetkemeyer@wi.uni-muenster.de
